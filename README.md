@@ -37,3 +37,7 @@ Foi um dos meus primeiros projetos criando uma interação completa com uma jane
 ## 👨‍💻 Autor
 
 **Zakzinn**
+
+## Imagem do jogo
+
+![Gameplay](assets/gameplay.png)
